@@ -17,9 +17,9 @@ Hands-on experience in developing web applications using ReactJS and NodeJS.
 
 <div align="center">
 
-    <a href="mailto:mb_abhilash@rocketmail.com"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/email.svg" height="20" alt=""></a>&nbsp;
-    <a href="https://www.linkedin.com/in/abhilash-mb-3753607a/"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/linkedin.svg" height="20" alt=""></a>&nbsp;
-    <a href="https://github.com/ambinabhi"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/github.svg"height="20" alt=""></a>&nbsp;
+    <a href="mailto:mb_abhilash@rocketmail.com"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/email.svg" height="20" alt=""></a>
+    <a href="https://www.linkedin.com/in/abhilash-mb-3753607a/"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/linkedin.svg" height="20" alt=""></a>
+    <a href="https://github.com/ambinabhi"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/github.svg"height="20" alt=""></a>
 </div>
 
 ---
