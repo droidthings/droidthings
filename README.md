@@ -7,7 +7,9 @@ Hands on experience in developing solutions for IoT environment using embedded s
 
 I am currently Msc (Information Engineering and Computer Science) Graduate at [Hochschule Rhein-Waal](https://www.hochschule-rhein-waal.de/en)
 
-I ❤️ Andorid, Java and everything about IoT driven projects. 
+I ❤️ Andorid, Java and everything about web and mobile developement.
+
+IoT Enthusiast.
 
 Hands-on experience in developing web applications using ReactJS and NodeJS.
 
