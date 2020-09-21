@@ -9,6 +9,7 @@ I ❤️ Andorid, Java and everything about web and mobile developement.
 IoT Enthusiast. Hands on experience in developing solutions for IoT environment using embedded systems and cloud integration
 
 I am currently Msc (Information Engineering and Computer Science) Graduate at [Hochschule Rhein-Waal](https://www.hochschule-rhein-waal.de/en)
+
 ---
 
 <p align="center">Feel free to reach out and take a look at my social media profiles below:</p>
