@@ -6,9 +6,9 @@ Software Development Engineer with over all experience of 8 years in development
 
 I ❤️ Andorid, Java and everything about web and mobile developement.
 
-IoT Enthusiast. Hands on experience in developing solutions for IoT environment using embedded systems and cloud integration
+Also, an IoT Enthusiast. Hands on experience in developing solutions for IoT environment using embedded systems along with cloud integration
 
-I currently work as AOSP engineer in https://www.elektrobit.com/
+I currently work as AOSP engineer @[Elektrobit](https://www.elektrobit.com/).
 
 ---
 
